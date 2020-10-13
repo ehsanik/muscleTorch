@@ -36,8 +36,8 @@ pip3 install -r requirements.txt
 ```
 
 
-3. Download the images from [here](#TODO) and extract it to HumanDataset/images.
-4. Download the sensor data from [here](#TODO) and extract it to HumanDataset/annotation_h5.
+3. Download the images from [here](https://drive.google.com/file/d/1znyScxE50y9UpoVfKRHCBFyxYeoNd4rM/view?usp=sharing) and extract it to HumanDataset/images.
+4. Download the sensor data from [here](https://drive.google.com/file/d/1dLTpGhOlWJ6TctVe2iWLIGg2M7TkiBSq/view?usp=sharing) and extract it to HumanDataset/annotation_h5.
 5. Download pretrained weights from [here](https://drive.google.com/file/d/1IStOGhi8Qq_-5J2MH5MpCqeVyBTecNVs/view?usp=sharing) for reproducing the numbers in the paper, extract it to HumanDataset/saved_weights. 
 
 
