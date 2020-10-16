@@ -1,9 +1,9 @@
-# [Learning Visual Representation from Human Interactions](#TODO)
+# [What Can You Learn from Your Muscles?</br> Learning Visual Representation from Human Interactions](#TODO)
 ## K Ehsani, D Gordon, T Nguyen, R Mottaghi, A Farhadi
 
 [(Project Page)](https://github.com/ehsanik/muscleTorch) [(PDF)](#TODO) [(Slides)](#TODO) [(Video)](#TODO)
 
-<div style="text-align: center;"><img src="figs/human_teaser.png" height="300px" ></div>
+<div style="text-align: center;"><img src="figs/human_teaser.png" height="250px" ></div>
 
 ### Abstract
 
