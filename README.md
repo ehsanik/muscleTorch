@@ -1,7 +1,8 @@
 # [What Can You Learn from Your Muscles?</br> Learning Visual Representation from Human Interactions](https://arxiv.org/pdf/2010.08539.pdf)
 ## K Ehsani, D Gordon, T Nguyen, R Mottaghi, A Farhadi
+## Published at ICLR 2021
 
-[(Project Page)](https://github.com/ehsanik/muscleTorch) [(PDF)](https://arxiv.org/pdf/2010.08539.pdf) [(Slides)](#TODO) [(Video)](#TODO)
+[(Project Page)](https://github.com/ehsanik/muscleTorch) [(PDF)](https://arxiv.org/pdf/2010.08539.pdf) [(Slides)](#TODO) [(Video)](https://drive.google.com/file/d/1_CxQiQvuq8HFcFGOwdK16GvGEp-wz5aO/view?usp=sharing)
 
 <div style="text-align: center;"><img src="figs/human_teaser.png" height="250px" ></div>
 
