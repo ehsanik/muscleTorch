@@ -100,7 +100,7 @@ If you find this project useful in your research, please consider citing:
    @article{ehsani2020learning,
      title={Learning Visual Representation from Human Interactions},
      author={Ehsani, Kiana and Gordon, Daniel and Nguyen, Thomas and Mottaghi, Roozbeh and Farhadi, Ali},
-     journal={arXiv},
-     year={2020}
+     journal={International Conference on Learning Representations},
+     year={2021}
    }
 ```
