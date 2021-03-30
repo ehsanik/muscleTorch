@@ -2,7 +2,7 @@
 ## K Ehsani, D Gordon, T Nguyen, R Mottaghi, A Farhadi
 #### Published at ICLR 2021
 
-[(Project Page)](https://github.com/ehsanik/muscleTorch) [(PDF)](https://arxiv.org/pdf/2010.08539.pdf) [(Slides)](#TODO) [(Video)](https://drive.google.com/file/d/1_CxQiQvuq8HFcFGOwdK16GvGEp-wz5aO/view?usp=sharing)
+[(Project Page)](https://github.com/ehsanik/muscleTorch) [(PDF)](https://arxiv.org/pdf/2010.08539.pdf) [(Slides)](https://drive.google.com/file/d/1PwUr84_K1p6aIeuEkpkunvTsyimWtAJg/view?usp=sharing) [(Video)](https://drive.google.com/file/d/1_CxQiQvuq8HFcFGOwdK16GvGEp-wz5aO/view?usp=sharing) [(Presentation)](https://drive.google.com/file/d/1WE3qxjlwQ23NTlya9HLfv9WYz27sd3Ld/view?usp=sharing)
 
 <div style="text-align: center;"><img src="figs/human_teaser.png" height="250px" ></div>
 
